@@ -1,4 +1,6 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-print "¿Viene un cambio automático en la aplicacion?";
+print "¿Viene un cambio automático en la aplicacion?\n";
+print "</br>";
+print "Mas cosas";
 ?>
